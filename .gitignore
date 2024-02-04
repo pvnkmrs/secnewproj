@@ -1,3 +1,10 @@
+# ignore all temp files
 *.tmp
+
 newlocal.txt
+
+#ingnore myf folder
 /myf
+
+#ignore models
+*.mdl
